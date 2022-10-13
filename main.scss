@@ -12,9 +12,8 @@ body {
   background: url("/images/bg-pattern-top.svg"),
     url("/images/bg-pattern-bottom.svg");
   background-color: colors.$Darkcyan;
-  background-position:-24% 340%, 119% -340%;
+  background-position: right 50vw bottom 50vh, left 50vw top 50vh;
   background-repeat: no-repeat, no-repeat ;
-  background-size: 58% ,50%;
 }
 
 .container {
